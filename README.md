@@ -2,4 +2,4 @@
 
 Primeiros passos no aprendizado de HTML, CSS e Flex Box.
 
-Repositório de referência https://github.com/SpruceGabriela/instagram-dio
+- [Repositório de referência](https://github.com/SpruceGabriela/instagram-dio)
